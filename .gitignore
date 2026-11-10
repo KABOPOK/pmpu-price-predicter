@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+data/raw/
+*.parquet
+.DS_Store
